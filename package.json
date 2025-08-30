@@ -3,9 +3,7 @@
   "description": "Eric Meyer's Reset CSS for styled-components",
   "version": "4.5.2",
   "author": {
-    "email": "zac@zacanger.com",
-    "name": "Zac Anger",
-    "url": "http://zacanger.com"
+    "name": "Autumn Z"
   },
   "license": "MIT",
   "main": "lib/index.js",
@@ -23,12 +21,12 @@
     "test": "npm run test:lint",
     "test:lint": "ts-standard src"
   },
-  "homepage": "https://github.com/zacanger/styled-reset#readme",
+  "homepage": "https://github.com/zautumnz/styled-reset#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zacanger/styled-reset.git"
+    "url": "https://github.com/zautumnz/styled-reset.git"
   },
-  "bugs": "https://github.com/zacanger/styled-reset/issues",
+  "bugs": "https://github.com/zautumnz/styled-reset/issues",
   "keywords": [
     "css",
     "reset",

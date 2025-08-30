@@ -1,9 +1,5 @@
 # styled-reset
 
-[Donate](https://ko-fi.com/zacanger)
-
-[![npm version](https://img.shields.io/npm/v/styled-reset.svg)](https://npm.im/styled-reset) [![CircleCI](https://circleci.com/gh/zacanger/styled-reset.svg?style=svg)](https://circleci.com/gh/zacanger/styled-reset)
-
 Eric Meyer's [Reset CSS](https://meyerweb.com/eric/tools/css/reset/) for [styled-components](https://github.com/styled-components/styled-components)
 
 Also see [styled-normalize](https://www.npmjs.com/package/styled-normalize) from [Sergey Sova](https://github.com/sergeysova).
